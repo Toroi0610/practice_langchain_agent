@@ -1,0 +1,2 @@
+# practice_langchain_agent
+langchain_agentの機能を試すリポジトリです。
